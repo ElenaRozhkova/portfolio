@@ -1,0 +1,17 @@
+.cover__link-learn {
+    display: block;
+    background-position: center;
+    background-size: cover;
+    padding: 10px 10px;
+    text-align: center;
+    cursor: pointer;
+    margin-bottom: 20px;
+    min-height: 300px;
+    background-image: url(../../../images/pr1.jpg);
+}
+
+@media screen and (max-width: 1000px) {
+    .cover__link-learn {
+        margin-top: 20px;
+    }
+}

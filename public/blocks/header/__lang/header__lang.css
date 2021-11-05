@@ -1,0 +1,17 @@
+.header__lang {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 117%;
+    text-decoration-line: none;
+    color: #cac8c8;
+    list-style-type: none;
+}
+
+@media screen and (max-width: 740px) {
+    .header__lang {
+        font-size: 24px;
+        border-bottom: 1px solid rgb(78, 78, 78);
+        margin-bottom: 20px;
+    }
+}

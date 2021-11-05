@@ -1,0 +1,18 @@
+.avatar__about-me {
+    flex-basis: 50%;
+    max-width: 550px;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 1.2;
+    color: #FFFFFF;
+    text-align: left;
+}
+
+@media screen and (max-width: 1000px) {
+    .avatar__about-me {
+        margin-bottom: 22px;
+        font-size: 18px;
+        max-width: 250px;
+        text-align: center;
+    }
+}

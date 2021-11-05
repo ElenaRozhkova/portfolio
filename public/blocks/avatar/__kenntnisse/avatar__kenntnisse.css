@@ -1,0 +1,15 @@
+.avatar__kenntnisse {
+    margin-top: 20px;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: #dddbdb;
+}
+
+@media screen and (max-width: 760px) {
+    .avatar__kenntnisse {
+        margin-bottom: 22px;
+        font-size: 16px;
+        max-width: 250px;
+    }
+}

@@ -1,0 +1,11 @@
+.cover__link-travel {
+    display: block;
+    background-image: url(../../../images/reisen.png);
+    background-position: center;
+    background-size: cover;
+    padding: 10px 10px;
+    text-align: center;
+    cursor: pointer;
+    margin-bottom: 20px;
+    min-height: 300px;
+}
